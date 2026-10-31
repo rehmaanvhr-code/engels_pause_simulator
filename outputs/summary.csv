@@ -1,0 +1,6 @@
+scenario,pause_years,owner_surplus_share,wage_index_year_20,wage_index_year_59,gini_peak
+historical pace,37,0.863,100.4,108.5,0.458
+"AI speed, no policy",57,0.829,108.4,146.9,0.574
+"AI speed, broad ownership",17,0.418,151.7,164.5,0.426
+"AI speed, redistribution 20%",57,0.661,120.3,147.0,0.436
+"AI speed, bargaining",19,0.412,148.6,163.9,0.452
